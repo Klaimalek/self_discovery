@@ -1,0 +1,25 @@
+les trois principales compétences techniques:
+-Langages : Java , JavaScript, JSX
+,HTML5, CSS3 
+-Architectures : REST API ,
+-Frameworks : React JS, Redux,
+ReduxToollkit, Bootstrap, Node Js ,
+SGBDR : MySQL NoSQL : MongoDb
+•Système de gestion des versions :
+Git
+
+
+les 3 principales compétences génériques (Soft Skills)
+Un grand sens du service client,
+l'esprit d'entraide et de partage de
+connaissances
+• Réactif et toujours à la pointe des
+dernières technologies
+• Enthousiaste et curieux
+• Travail en équipe (agilité)
+• Force de propositio
+
+objectif professionnel (SMART)
+j'aimerais bien devenir une developpeuse fullstack à court
+terme, et à long terme,je souhaiterais devinir un chef 
+de prpjet
